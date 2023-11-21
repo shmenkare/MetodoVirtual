@@ -1,0 +1,9 @@
+MetodoVirtual.csproj
+MetodoVirtual.sln
+MetodoVirtual.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
